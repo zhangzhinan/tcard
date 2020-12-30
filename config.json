@@ -8,14 +8,12 @@
       "5": "0",
       "6": "0",
       "7": "0",
-      "8": "0x91011Aca104aDbC884ec79734E2cC80838B4452A",
-      "9": "0x6D908F34bCBC722fe30d377AE16ea888BA5010bb",
+      "8": "0xccf9f8D04D1065405A07Ea978903e0a929A5cB37",
+      "9": "0x3f1dA81F9Cae70B657CCAeF93B9C809781b43E96",
       "10": "",
       "11": [],
       "period": "第一期",
-      "contractAddr": "0xC2BDfb0cFAE31E8442fa631beB7E8284Cb75C740",
-      "nftAddr": "0xb7A95074291Cef1670Cb9d5edB3BDeFdcA2B64A5",
-      "usdtAddr": "0xfdd6E134d17a95fc6F247dea191d5Be46fBD9561"
+      "contractAddr": "0xF52C9FEA5B0c1Dd20abd22fbE05b0B766222164c"
     },
     {
       "0": "0",
@@ -26,14 +24,12 @@
       "5": "0",
       "6": "0",
       "7": "0",
-      "8": "0x91011Aca104aDbC884ec79734E2cC80838B4452A",
-      "9": "0x6D908F34bCBC722fe30d377AE16ea888BA5010bb",
+      "8": "0xccf9f8D04D1065405A07Ea978903e0a929A5cB37",
+      "9": "0x3f1dA81F9Cae70B657CCAeF93B9C809781b43E96",
       "10": "",
       "11": [],
       "period": "第二期",
-      "contractAddr": "0xf3Ad0Ab1B1be477Ac2DcD700748E837Ca70D79F1",
-      "nftAddr": "0xb7A95074291Cef1670Cb9d5edB3BDeFdcA2B64A5",
-      "usdtAddr": "0xfdd6E134d17a95fc6F247dea191d5Be46fBD9561"
+      "contractAddr": "0x780D2d951dfdBE0136E9735aAe9219379b0Ef5F6'
     },
     {
       "0": "0",
@@ -44,13 +40,11 @@
       "5": "0",
       "6": "0",
       "7": "0",
-      "8": "0x91011Aca104aDbC884ec79734E2cC80838B4452A",
-      "9": "0x6D908F34bCBC722fe30d377AE16ea888BA5010bb",
+      "8": "0xccf9f8D04D1065405A07Ea978903e0a929A5cB37",
+      "9": "0x3f1dA81F9Cae70B657CCAeF93B9C809781b43E96",
       "10": "",
       "11": [],
       "period": "第三期",
-      "contractAddr": "0x4fc48F86c99a3Ab61ee961a441E2Db4CA6E8Ec92",
-      "nftAddr": "0xb7A95074291Cef1670Cb9d5edB3BDeFdcA2B64A5",
-      "usdtAddr": "0xfdd6E134d17a95fc6F247dea191d5Be46fBD9561"
+      "contractAddr": "0xceAA3E1faDe92f3ecC55C23D65Ef0E19162936e6"
     }
   ]
